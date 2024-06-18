@@ -1,23 +1,7 @@
 {
-	"folders": [
-		{
-			"path": "../../talentotech3"
-		},
-		{
-			"path": "../../talentotech"
-		},
-		{
-			"path": "../talentotech2"
-		},
-		{
-			"path": "../retos.github.io"
-		},
-		{
-			"path": "../lab6.github.io"
-		},
-		{
-			"path": "."
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": ".."
+        }
+    ]
 }
