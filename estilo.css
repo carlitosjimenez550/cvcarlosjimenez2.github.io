@@ -37,6 +37,7 @@ fieldset{
     border-radius: 0 0 10px 10px;
     margin-top: 0.5em;
     background-color: #9ebedbe0;
+    border: var(--tabs-border-size) solid var(--tabs-border-color);
 }
 
 #presentacion{
@@ -48,6 +49,7 @@ fieldset{
     text-align: center;
     position: absolute;
    border-radius: 2%;
+   border: var(--tabs-border-size) solid var(--tabs-border-color);
 }
 
 .datospersonales{
@@ -81,6 +83,7 @@ th{
     width: 130px;
     margin: 5px;
     border-radius: 5%;  
+    border: var(--tabs-border-size) solid var(--tabs-border-color);
   }
 
 #imagen2 {
@@ -175,6 +178,7 @@ th{
 body {
     font-family: sans-serif;
     line-height: 1.2;
+    background-color: #000000e0;
   }
 
 h2, p {
